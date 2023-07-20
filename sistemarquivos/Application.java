@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Application {
 
     // TODO mudar esse caminho para o caminho da pasta "HD" no seu PC
-    public static final String ROOT = "//home//adelino//Maven" + File.separator + "//hd";
+    public static final String ROOT = "caminho do arquivo..." + File.separator + "//hd";
 
     public Application() {
         executar();
